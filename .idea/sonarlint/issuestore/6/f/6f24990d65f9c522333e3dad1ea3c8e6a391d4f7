@@ -1,0 +1,49 @@
+
+a	java:S112­"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Ë"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112²"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112Ğ"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112à"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112î"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+a	java:S112—"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+g
+java:S1192ş"KDefine a constant instead of duplicating this literal "total_paid" 4 times.(¬³Èûøÿÿÿÿ
+g
+java:S1192Ã"KDefine a constant instead of duplicating this literal "job_number" 6 times.(ˆ¨ÿ•øÿÿÿÿ
+o
+java:S1192Ã"SDefine a constant instead of duplicating this literal "
+Job Number:      " 3 times.(ˆ¨ÿ•øÿÿÿÿ
+j
+java:S1192Ç"SDefine a constant instead of duplicating this literal "
+Customer:        " 5 times.(ƒœ¶ê
+e
+java:S1192Å"IDefine a constant instead of duplicating this literal "deadline" 3 times.(–Üùÿÿÿÿ
+j
+java:S1192Æ"SDefine a constant instead of duplicating this literal "
+Project Manager: " 3 times.(ÌÔ³Ä
+_
+java:S1192Ä"IDefine a constant instead of duplicating this literal "job_name" 6 times.(ËÔàO
+f
+java:S1192ş"JDefine a constant instead of duplicating this literal "total_fee" 4 times.(¬³Èûøÿÿÿÿ
+k
+java:S1192ÿ"TDefine a constant instead of duplicating this literal "' WHERE job_number=" 4 times.(äÓèã
+i
+java:S1192Ä"SDefine a constant instead of duplicating this literal "
+Job Name:        " 5 times.(ËÔàO
+d
+java:S1192Æ"MDefine a constant instead of duplicating this literal "proj_manager" 3 times.(ÌÔ³Ä
+o
+java:S1192Å"SDefine a constant instead of duplicating this literal "
+Build Deadline:  " 3 times.(–Üùÿÿÿÿ
+g
+java:S1192¹"KDefine a constant instead of duplicating this literal "dd/MM/yyyy" 3 times.(„´ôíüÿÿÿÿ
+`
+java:S1192Ç"IDefine a constant instead of duplicating this literal "customer" 5 times.(ƒœ¶ê
+b
+java:S2095©"LUse try-with-resources or close this "BufferedWriter" in a "finally" clause.(Ÿİß
+Q
+java:S6437*"6Revoke and change this password, as it is compromised.(ÃÊÄúÿÿÿÿ
+8
+java:S6205¬"Remove this redundant block.(…¿ÿÿÿÿÿ

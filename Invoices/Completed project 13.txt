@@ -1,0 +1,12 @@
+Job Number:      13
+Job Name:        Renovation
+Completion Date: 10/01/2023
+--------------------------------------
+Customer:        Mr Munro
+Address:         Whitehirst Park, Kilwinning, KA2 4BJ
+Phone Number:    01294 2746453
+Email:           mikemunro@btinternet.com
+Project Total:   £321000.0
+Amount Paid:     £97000.0
+--------------------------------------
+Amount Owed:     £224000.0

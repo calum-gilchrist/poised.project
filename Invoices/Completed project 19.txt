@@ -1,0 +1,12 @@
+Job Number:      19
+Job Name:        My House
+Completion Date: 10/01/2023
+--------------------------------------
+Customer:        The Customer
+Address:         A house, somewhere
+Phone Number:    07837546387
+Email:           custom@email.com
+Project Total:   £789987.0
+Amount Paid:     £123321.0
+--------------------------------------
+Amount Owed:     £666666.0
